@@ -1,5 +1,5 @@
-Clone the repo \n
-cd BotUI \n
-npm i \n
-Replace the api with the working one \n
+git clone https://github.com/Prashanth803/BotUI.git
+cd BotUI
+npm i
+# Replace the API with the working one
 npm run dev
